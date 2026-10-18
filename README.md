@@ -2,13 +2,13 @@
 
 <div align="center">
 
+[![Roots](https://img.shields.io/badge/Computing%20Roots-IBM%20%2F%20Tandy%20Era-555555?style=flat-square&logo=retroarch&logoColor=white)](https://github.com/Mannerless)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Linux](https://img.shields.io/badge/Linux-Debian%20%2F%20MATE-A80030?style=flat-square&logo=debian&logoColor=white)](https://debian.org)
 [![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
-[![Bash](https://img.shields.io/badge/Shell-Bash%20Automation-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://gnu.org)
 [![GitHub](https://img.shields.io/badge/GitHub-Member%20Since%202012-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mannerless)
 
-**Systems & Automation Developer • Open Source Contributor • Hardware & Mobile Tinkerer**
+**Lifelong Systems Builder • Computing Since Childhood • Open Source & Automation Developer**
 
 </div>
 
@@ -16,11 +16,12 @@
 
 ### 👨‍💻 About Me
 
-I am an independent systems, automation, and tooling developer with over a decade of hands-on software exploration on GitHub. I build reliable background daemons, native desktop and mobile tools, hardware integrations, and automated pipelines that solve real operational bottlenecks.
+I am a lifelong technologist and builder whose journey began as a kid on an IBM Tandy. That early curiosity turned into decades of hands-on experience spanning PC hardware, low-level system mechanics, Debian Linux, and over 14 years of active project development on GitHub.
 
-- 🔭 **Core Philosophy**: Zero-bloat, stdlib-first architecture, rigorous hermetic testing, and fail-closed invariants.
-- ⚙️ **Daily Driver**: Debian 13 (Trixie), Linux systems architecture, Python 3, and native automation.
-- 🤝 **Collaboration**: Active contributor across open-source bounties, protocol telemetry, and community tooling.
+- 🕹️ **Lifelong Roots**: Started hacking on IBM / Tandy systems at age 7; grounded in mechanical and architectural hardware fundamentals.
+- 🔭 **Engineering Philosophy**: Zero-bloat, stdlib-first Python, rigorous hermetic testing, and resilient background daemons.
+- ⚙️ **Daily Driver**: Debian 13 (Trixie), Linux systems architecture, Python 3, and native desktop/mobile automation.
+- 🤝 **Collaboration**: Active contributor across open-source bounties, protocol telemetry, and community developer tooling.
 - 💼 **Availability**: Open for contract automation projects, systems integration, and technical workforce roles.
 
 ---
